@@ -7,3 +7,13 @@ debe presentar un menu:
 4.mostar las notas en orden descendente
 5-salir
 */
+
+int[] notas = new int [25];
+
+/*agregar*/
+
+/*mostrar*/
+
+/*3 primeros lugares*/
+
+/*mostrar descendente*/
