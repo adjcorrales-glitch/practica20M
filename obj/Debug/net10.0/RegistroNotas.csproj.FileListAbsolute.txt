@@ -1,0 +1,15 @@
+C:\introprog\practica20M\RegistroNotas\bin\Debug\net10.0\RegistroNotas.exe
+C:\introprog\practica20M\RegistroNotas\bin\Debug\net10.0\RegistroNotas.deps.json
+C:\introprog\practica20M\RegistroNotas\bin\Debug\net10.0\RegistroNotas.runtimeconfig.json
+C:\introprog\practica20M\RegistroNotas\bin\Debug\net10.0\RegistroNotas.dll
+C:\introprog\practica20M\RegistroNotas\bin\Debug\net10.0\RegistroNotas.pdb
+C:\introprog\practica20M\RegistroNotas\obj\Debug\net10.0\RegistroNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\introprog\practica20M\RegistroNotas\obj\Debug\net10.0\RegistroNotas.AssemblyInfoInputs.cache
+C:\introprog\practica20M\RegistroNotas\obj\Debug\net10.0\RegistroNotas.AssemblyInfo.cs
+C:\introprog\practica20M\RegistroNotas\obj\Debug\net10.0\RegistroNotas.csproj.CoreCompileInputs.cache
+C:\introprog\practica20M\RegistroNotas\obj\Debug\net10.0\RegistroNotas.sourcelink.json
+C:\introprog\practica20M\RegistroNotas\obj\Debug\net10.0\RegistroNotas.dll
+C:\introprog\practica20M\RegistroNotas\obj\Debug\net10.0\refint\RegistroNotas.dll
+C:\introprog\practica20M\RegistroNotas\obj\Debug\net10.0\RegistroNotas.pdb
+C:\introprog\practica20M\RegistroNotas\obj\Debug\net10.0\RegistroNotas.genruntimeconfig.cache
+C:\introprog\practica20M\RegistroNotas\obj\Debug\net10.0\ref\RegistroNotas.dll

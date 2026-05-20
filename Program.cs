@@ -11,9 +11,13 @@ debe presentar un menu:
 int[] notas = new int [25];
 
 /*agregar*/
-
-/*mostrar*/
-
+for (int i = 0; i < notas.Length; i++)
+{
+    Console.WriteLine($"Ingrese la nota del estudiante {i + 1}:");
+    notas[i] = int.Parse(Console.ReadLine());
+    
+}
+/*mostrar*
 /*3 primeros lugares*/
 
 /*mostrar descendente*/
